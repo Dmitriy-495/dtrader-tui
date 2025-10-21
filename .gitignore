@@ -1,0 +1,6 @@
+# Зависимости Node
+/node_modules
+
+# Файлы окружения
+.env
+.package-lock.json
