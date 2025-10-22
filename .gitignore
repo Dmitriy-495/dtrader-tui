@@ -1,6 +1,6 @@
 # Зависимости Node
-/node_modules
-
+node_modules/
+dist/
 # Файлы окружения
 .env
 .package-lock.json
